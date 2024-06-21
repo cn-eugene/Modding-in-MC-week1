@@ -21,9 +21,11 @@ After it has been installed, extract your workspace zip file into a folder on yo
  
  After downloading, run the file and follow the installation steps.
  
- Run the MCreator workspace file present in the folder after it has been extracted
- 
- MCreator should start automatically loading your workspace now
+Open Mcreator and click "Open Workspace"
+
+Naviagte to the extracted folder and open the .Mcreator file
+	
+ It might take a moment or two to load, but once it has you'll be free to access your workspace like before.
  
 # How to install your mod into Minecraft
 Download the [name].jar file from GitHub
