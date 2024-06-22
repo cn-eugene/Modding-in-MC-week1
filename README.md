@@ -3,7 +3,7 @@
 Hello Ninjas and their families!
 Thank you so much for such an incredible week of coding and playing Minecraft. Here is the hub for each and every one of your mods. 
 
-  Each Ninja should find two files here for them to download along with the download instructions. The .ZIP file is used in Mcreator so that Ninjas can continue to edit and develope their mods now that camp is over. The .JAR file is the mod itself which can be added to your game through the use of Curseforge.
+  Each Ninja should find two files here for them to download along with the download instructions. The .ZIP file is used in Mcreator so that Ninjas can continue to edit and develop their mods now that camp is over. The .JAR file is the mod itself which can be added to your game through the use of Curseforge.
 
   I truly hope these instructions are helpful in the quest to access these mods at home. Please don't hesitate to reach out if you have issues accessing them. These Ninjas worked very hard and deserve to enjoy their creations long after this camp has ended.
 
@@ -23,7 +23,7 @@ After it has been installed, extract your workspace zip file into a folder on yo
  
 Open Mcreator and click "Open Workspace"
 
-Naviagte to the extracted folder and open the .Mcreator file
+Navigate to the extracted folder and open the .Mcreator file
 	
  It might take a moment or two to load, but once it has you'll be free to access your workspace like before.
  
